@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/activity_main.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/activity_splash.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/fragment_days.xml" value="0.33" />
       </map>
     </option>
   </component>
