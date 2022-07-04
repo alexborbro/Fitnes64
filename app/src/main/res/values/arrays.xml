@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="exercise">
+        <item>Выпрямление руки и ноги|x10|mahi_nogoi.gif</item> <!-- 0 -->
+        <item>Махи ногой вверх|x10|mahi_sognutoi_nogoi.gif</item> <!-- 1 -->
+        <item>Отжимания с колен|x10|otgimanie_s_kolen.gif</item>
+        <item>Пловец лежа на животе|10|plovec_na_givote.gif.gif</item>
+        <item>Повороты корпуса сидя|x10|povoroti_sidya.gif</item>
+        <item>Велосипед|10|velosiped.gif</item>
+        <item>Выпрямление руки и ноги|x10|mahi_nogoi.gif</item>
+        <item>Отдых|x10|mahi_nogoi.gif</item><!-- 7 -->
+
+    </string-array>
+
+    <string-array name="day_exercises">
+        <item>0,2,0,3,0,5,0,3,6</item> <!-- 1 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 2 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 3 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 4 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 5 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 6 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 7 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 8 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 9 день -->
+        <item>0,2,0,3,0,5,0,3,6,0,3,0,4,0,2</item> <!-- 10 день -->
+
+    </string-array>
+</resources>

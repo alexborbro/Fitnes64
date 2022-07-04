@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/activity_splash.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/days_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/exercise_list_item.xml" value="0.365625" />
+        <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/exercises_list_fragment.xml" value="0.365625" />
         <entry key="..\:/Users/alexbor/AndroidStudioProjects/Fitnes64/app/src/main/res/layout/fragment_days.xml" value="0.33" />
       </map>
     </option>

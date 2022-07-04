@@ -2,4 +2,7 @@
     <string name="app_name">Fitnes64</string>
 
     <string name="slogan">На пути к совершенству!</string>
+    <string name="day">День:</string>
+    <string name="excercise">Упражнений: </string>
+
 </resources>
